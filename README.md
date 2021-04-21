@@ -1,0 +1,2 @@
+# Shope
+ Develop a menu-driven application for a shop where we can add the stock, display items available, and purchase items. For each item, enter item code, item name, price/cost.  Item code to enter for purchasing (multiple items can be purchased). Generate and show the bill amount for each purchase made.  We are required to use collections for this.    Main Menu  Enter as Shopkeeper Enter as Customer Sub Menu (Option 1)  Enter Stock Display Stock Go back Sub Menu (Option 2)  Display Stock Purchase Exit
